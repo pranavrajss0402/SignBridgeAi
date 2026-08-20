@@ -1,0 +1,494 @@
+Sentence,Video Path,Exists,Readable,Frame Count,FPS,Duration Seconds,Width,Height
+are you free today,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\are you free today\free (2).MP4,True,True,78,25.0,3.12,1920,1080
+are you free today,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\are you free today\free (3).MP4,True,True,98,25.0,3.92,1920,1080
+are you free today,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\are you free today\free (4).MP4,True,True,82,25.0,3.28,1920,1080
+are you free today,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\are you free today\free (5).MP4,True,True,117,25.0,4.68,1920,1080
+are you free today,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\are you free today\free.MP4,True,True,101,25.0,4.04,1920,1080
+are you hiding something,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\are you hiding something\MVI_6209.MP4,True,True,95,25.0,3.8,1920,1080
+are you hiding something,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\are you hiding something\MVI_6507.MP4,True,True,83,25.0,3.32,1920,1080
+are you hiding something,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\are you hiding something\MVI_6685.MP4,True,True,87,25.0,3.48,1920,1080
+are you hiding something,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\are you hiding something\MVI_6817.MP4,True,True,101,25.0,4.04,1920,1080
+are you hiding something,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\are you hiding something\MVI_6958.MP4,True,True,106,25.0,4.24,1920,1080
+bring water for me,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\bring water for me\bring water for me (1).MP4,True,True,116,25.0,4.64,1920,1080
+bring water for me,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\bring water for me\bring water for me (3).MP4,True,True,91,25.0,3.64,1920,1080
+bring water for me,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\bring water for me\bring water for me (4).MP4,True,True,90,25.0,3.6,1920,1080
+bring water for me,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\bring water for me\bring water for me (5).MP4,True,True,98,25.0,3.92,1920,1080
+bring water for me,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\bring water for me\bring water for me (8).MP4,True,True,97,25.0,3.88,1920,1080
+can i help you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\can i help you\cannot help.MP4,True,True,95,25.0,3.8,1920,1080
+can i help you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\can i help you\help (2).MP4,True,True,76,25.0,3.04,1920,1080
+can i help you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\can i help you\help (3).MP4,True,True,105,25.0,4.2,1920,1080
+can i help you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\can i help you\help (4).MP4,True,True,92,25.0,3.68,1920,1080
+can i help you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\can i help you\help (5).MP4,True,True,99,25.0,3.96,1920,1080
+can i help you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\can i help you\help.MP4,True,True,110,25.0,4.4,1920,1080
+can you repeat that please,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\can you repeat that please\can you repeat that please (1).MP4,True,True,110,25.0,4.4,1920,1080
+can you repeat that please,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\can you repeat that please\can you repeat that please (3).MP4,True,True,109,25.0,4.36,1920,1080
+can you repeat that please,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\can you repeat that please\can you repeat that please (4).MP4,True,True,92,25.0,3.68,1920,1080
+can you repeat that please,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\can you repeat that please\can you repeat that please (5).MP4,True,True,100,25.0,4.0,1920,1080
+can you repeat that please,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\can you repeat that please\can you repeat that please (6).MP4,True,True,101,25.0,4.04,1920,1080
+comb your hair,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\comb your hair\comb (2).MP4,True,True,91,25.0,3.64,1920,1080
+comb your hair,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\comb your hair\comb (3).MP4,True,True,140,25.0,5.6,1920,1080
+comb your hair,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\comb your hair\comb (4).MP4,True,True,98,25.0,3.92,1920,1080
+comb your hair,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\comb your hair\comb (5).MP4,True,True,98,25.0,3.92,1920,1080
+comb your hair,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\comb your hair\comb.MP4,True,True,128,25.0,5.12,1920,1080
+congratulations,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\congratulations\congratulations (3).MP4,True,True,81,25.0,3.24,1920,1080
+congratulations,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\congratulations\congratulations (4).MP4,True,True,62,25.0,2.48,1920,1080
+congratulations,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\congratulations\congratulations (5).MP4,True,True,90,25.0,3.6,1920,1080
+congratulations,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\congratulations\congratulations (6).MP4,True,True,63,25.0,2.52,1920,1080
+congratulations,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\congratulations\congratulations (7).MP4,True,True,54,25.0,2.16,1920,1080
+could you please talk slower,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\could you please talk slower\could you please talk slower (3).MP4,True,True,141,25.0,5.64,1920,1080
+could you please talk slower,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\could you please talk slower\could you please talk slower (4).MP4,True,True,119,25.0,4.76,1920,1080
+could you please talk slower,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\could you please talk slower\could you please talk slower (5).MP4,True,True,105,25.0,4.2,1920,1080
+could you please talk slower,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\could you please talk slower\could you please talk slower (6).MP4,True,True,120,25.0,4.8,1920,1080
+could you please talk slower,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\could you please talk slower\could you please talk slower (7).MP4,True,True,115,25.0,4.6,1920,1080
+do me a favour,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\do me a favour\favour (2).MP4,True,True,79,25.0,3.16,1920,1080
+do me a favour,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\do me a favour\favour (3).MP4,True,True,110,25.0,4.4,1920,1080
+do me a favour,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\do me a favour\favour (4).MP4,True,True,87,25.0,3.48,1920,1080
+do me a favour,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\do me a favour\favour (5).MP4,True,True,98,25.0,3.92,1920,1080
+do me a favour,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\do me a favour\favour.MP4,True,True,95,25.0,3.8,1920,1080
+do not abuse him,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not abuse him\abuse (2).MP4,True,True,182,25.0,7.28,1920,1080
+do not abuse him,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not abuse him\abuse (3).MP4,True,True,128,25.0,5.12,1920,1080
+do not abuse him,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not abuse him\abuse (4).MP4,True,True,146,25.0,5.84,1920,1080
+do not abuse him,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not abuse him\abuse.MP4,True,True,140,25.0,5.6,1920,1080
+do not be stubborn,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not be stubborn\stubborn (2).MP4,True,True,130,25.0,5.2,1920,1080
+do not be stubborn,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not be stubborn\stubborn (3).MP4,True,True,158,25.0,6.32,1920,1080
+do not be stubborn,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not be stubborn\stubborn (4).MP4,True,True,122,25.0,4.88,1920,1080
+do not be stubborn,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not be stubborn\stubborn.MP4,True,True,115,25.0,4.6,1920,1080
+do not hurt me,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not hurt me\hurt me (2).MP4,True,True,107,25.0,4.28,1920,1080
+do not hurt me,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not hurt me\hurt me (3).MP4,True,True,84,25.0,3.36,1920,1080
+do not hurt me,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not hurt me\hurt me (4).MP4,True,True,127,25.0,5.08,1920,1080
+do not hurt me,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not hurt me\hurt me.MP4,True,True,109,25.0,4.36,1920,1080
+do not hurt me,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not hurt me\hurt.MP4,True,True,89,25.0,3.56,1920,1080
+do not make me angry,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not make me angry\me angry (2).MP4,True,True,97,25.0,3.88,1920,1080
+do not make me angry,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not make me angry\me angry (3).MP4,True,True,108,25.0,4.32,1920,1080
+do not make me angry,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not make me angry\me angry (4).MP4,True,True,95,25.0,3.8,1920,1080
+do not make me angry,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not make me angry\me angry (5).MP4,True,True,91,25.0,3.64,1920,1080
+do not make me angry,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not make me angry\me angry.MP4,True,True,100,25.0,4.0,1920,1080
+do not take it to the heart,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not take it to the heart\heart (2).MP4,True,True,120,25.0,4.8,1920,1080
+do not take it to the heart,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not take it to the heart\heart (3).MP4,True,True,122,25.0,4.88,1920,1080
+do not take it to the heart,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not take it to the heart\heart (4).MP4,True,True,113,25.0,4.52,1920,1080
+do not take it to the heart,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not take it to the heart\heart (5).MP4,True,True,109,25.0,4.36,1920,1080
+do not take it to the heart,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not take it to the heart\heart.MP4,True,True,119,25.0,4.76,1920,1080
+do not worry,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not worry\MVI_6633.MP4,True,True,105,25.0,4.2,1920,1080
+do not worry,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not worry\worry (2).MP4,True,True,98,25.0,3.92,1920,1080
+do not worry,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not worry\worry (3).MP4,True,True,88,25.0,3.52,1920,1080
+do not worry,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not worry\worry (4).MP4,True,True,104,25.0,4.16,1920,1080
+do not worry,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\do not worry\worry.MP4,True,True,97,25.0,3.88,1920,1080
+do you need something,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\do you need something\need something (2).MP4,True,True,144,25.0,5.76,1920,1080
+do you need something,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\do you need something\need something.MP4,True,True,157,25.0,6.28,1920,1080
+do you need something,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\do you need something\something (2).MP4,True,True,101,25.0,4.04,1920,1080
+do you need something,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\do you need something\something (3).MP4,True,True,140,25.0,5.6,1920,1080
+do you need something,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\do you need something\something.MP4,True,True,113,25.0,4.52,1920,1080
+go and sleep,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\go and sleep\sleep (2).MP4,True,True,143,25.0,5.72,1920,1080
+go and sleep,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\go and sleep\sleep (3).MP4,True,True,67,25.0,2.68,1920,1080
+go and sleep,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\go and sleep\sleep (4).MP4,True,True,89,25.0,3.56,1920,1080
+go and sleep,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\go and sleep\sleep (5).MP4,True,True,99,25.0,3.96,1920,1080
+go and sleep,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\go and sleep\sleep (6).MP4,True,True,89,25.0,3.56,1920,1080
+go and sleep,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\go and sleep\sleep.MP4,True,True,102,25.0,4.08,1920,1080
+had your food,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\had your food\food (2).MP4,True,True,89,25.0,3.56,1920,1080
+had your food,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\had your food\food (3).MP4,True,True,87,25.0,3.48,1920,1080
+had your food,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\had your food\food (4).MP4,True,True,101,25.0,4.04,1920,1080
+had your food,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\had your food\food (5).MP4,True,True,93,25.0,3.72,1920,1080
+had your food,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\had your food\food.MP4,True,True,91,25.0,3.64,1920,1080
+he came by train,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\he came by train\train (2).MP4,True,True,99,25.0,3.96,1920,1080
+he came by train,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\he came by train\train (3).MP4,True,True,116,25.0,4.64,1920,1080
+he came by train,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\he came by train\train (4).MP4,True,True,106,25.0,4.24,1920,1080
+he came by train,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\he came by train\train (5).MP4,True,True,127,25.0,5.08,1920,1080
+he came by train,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\he came by train\train.MP4,True,True,112,25.0,4.48,1920,1080
+He is going into the room,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\He is going into the room\MVI_6503.MP4,True,True,130,25.0,5.2,1920,1080
+He is going into the room,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\He is going into the room\room (2).MP4,True,True,146,25.0,5.84,1920,1080
+He is going into the room,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\He is going into the room\room (3).MP4,True,True,114,25.0,4.56,1920,1080
+He is going into the room,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\He is going into the room\room (4).MP4,True,True,128,25.0,5.12,1920,1080
+He is going into the room,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\He is going into the room\room.MP4,True,True,113,25.0,4.52,1920,1080
+he is on the way,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\he is on the way\way (2).MP4,True,True,114,25.0,4.56,1920,1080
+he is on the way,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\he is on the way\way (3).MP4,True,True,118,25.0,4.72,1920,1080
+he is on the way,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\he is on the way\way (4).MP4,True,True,91,25.0,3.64,1920,1080
+he is on the way,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\he is on the way\way.MP4,True,True,86,25.0,3.44,1920,1080
+he she is my friend,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\he she is my friend\friend (2).MP4,True,True,83,25.0,3.32,1920,1080
+he she is my friend,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\he she is my friend\friend (3).MP4,True,True,76,25.0,3.04,1920,1080
+he she is my friend,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\he she is my friend\friend (4).MP4,True,True,94,25.0,3.76,1920,1080
+he she is my friend,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\he she is my friend\friend.MP4,True,True,78,25.0,3.12,1920,1080
+he she is my friend,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\he she is my friend\MVI_6500.MP4,True,True,90,25.0,3.6,1920,1080
+he would be coming today,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\he would be coming today\today (2).MP4,True,True,108,25.0,4.32,1920,1080
+he would be coming today,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\he would be coming today\today (3).MP4,True,True,138,25.0,5.52,1920,1080
+he would be coming today,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\he would be coming today\today (4).MP4,True,True,157,25.0,6.28,1920,1080
+he would be coming today,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\he would be coming today\today (5).MP4,True,True,132,25.0,5.28,1920,1080
+he would be coming today,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\he would be coming today\today.MP4,True,True,110,25.0,4.4,1920,1080
+help me,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\help me\help me (1).MP4,True,True,104,25.0,4.16,1920,1080
+help me,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\help me\help me (3).MP4,True,True,84,25.0,3.36,1920,1080
+help me,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\help me\help me (4).MP4,True,True,76,25.0,3.04,1920,1080
+help me,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\help me\help me (5).MP4,True,True,71,25.0,2.84,1920,1080
+help me,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\help me\help me (8).MP4,True,True,98,25.0,3.92,1920,1080
+hi how are you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\hi how are you\hi how are you (3).MP4,True,True,112,25.0,4.48,1920,1080
+hi how are you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\hi how are you\hi how are you (4).MP4,True,True,156,25.0,6.24,1920,1080
+hi how are you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\hi how are you\hi how are you (5).MP4,True,True,104,25.0,4.16,1920,1080
+hi how are you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\hi how are you\hi how are you (6).MP4,True,True,108,25.0,4.32,1920,1080
+hi how are you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\hi how are you\hi how are you (7).MP4,True,True,92,25.0,3.68,1920,1080
+how are things,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\how are things\things (2).MP4,True,True,150,25.0,6.0,1920,1080
+how are things,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\how are things\things (3).MP4,True,True,165,25.0,6.6,1920,1080
+how are things,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\how are things\things (4).MP4,True,True,186,25.0,7.44,1920,1080
+how are things,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\how are things\things.MP4,True,True,190,25.0,7.6,1920,1080
+how can i help you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\how can i help you\how can i help you (3).MP4,True,True,135,25.0,5.4,1920,1080
+how can i help you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\how can i help you\how can i help you (4).MP4,True,True,91,25.0,3.64,1920,1080
+how can i help you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\how can i help you\how can i help you (5).MP4,True,True,86,25.0,3.44,1920,1080
+how can i help you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\how can i help you\how can i help you (6).MP4,True,True,97,25.0,3.88,1920,1080
+how can i help you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\how can i help you\how can i help you (7).MP4,True,True,91,25.0,3.64,1920,1080
+how can i trust you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\how can i trust you\trust (2).MP4,True,True,96,25.0,3.84,1920,1080
+how can i trust you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\how can i trust you\trust (3).MP4,True,True,156,25.0,6.24,1920,1080
+how can i trust you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\how can i trust you\trust (4).MP4,True,True,124,25.0,4.96,1920,1080
+how can i trust you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\how can i trust you\trust (5).MP4,True,True,114,25.0,4.56,1920,1080
+how can i trust you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\how can i trust you\trust.MP4,True,True,117,25.0,4.68,1920,1080
+how dare you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\how dare you\dare (2).MP4,True,True,77,25.0,3.08,1920,1080
+how dare you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\how dare you\dare (3).MP4,True,True,95,25.0,3.8,1920,1080
+how dare you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\how dare you\dare (4).MP4,True,True,79,25.0,3.16,1920,1080
+how dare you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\how dare you\dare (5).MP4,True,True,90,25.0,3.6,1920,1080
+how dare you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\how dare you\dare.MP4,True,True,93,25.0,3.72,1920,1080
+how old are you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\how old are you\how old are you (3).MP4,True,True,111,25.0,4.44,1920,1080
+how old are you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\how old are you\how old are you (4).MP4,True,True,109,25.0,4.36,1920,1080
+how old are you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\how old are you\how old are you (5).MP4,True,True,97,25.0,3.88,1920,1080
+how old are you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\how old are you\how old are you (6).MP4,True,True,81,25.0,3.24,1920,1080
+how old are you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\how old are you\how old are you (7).MP4,True,True,87,25.0,3.48,1920,1080
+i am (age),C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am (age)\i am (age) (1).MP4,True,True,86,25.0,3.44,1920,1080
+i am (age),C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am (age)\i am (age) (2).MP4,True,True,74,25.0,2.96,1920,1080
+i am (age),C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am (age)\i am (age) (3).MP4,True,True,63,25.0,2.52,1920,1080
+i am (age),C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am (age)\i am (age) (4).MP4,True,True,72,25.0,2.88,1920,1080
+i am (age),C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am (age)\i am (age) (5).MP4,True,True,66,25.0,2.64,1920,1080
+i am afraid of that,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am afraid of that\afraid (2).MP4,True,True,122,25.0,4.88,1920,1080
+i am afraid of that,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am afraid of that\afraid (3).MP4,True,True,151,25.0,6.04,1920,1080
+i am afraid of that,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am afraid of that\afraid (4).MP4,True,True,110,25.0,4.4,1920,1080
+i am afraid of that,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am afraid of that\afraid (5).MP4,True,True,118,25.0,4.72,1920,1080
+i am afraid of that,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am afraid of that\afraid.MP4,True,True,124,25.0,4.96,1920,1080
+i am crying,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am crying\i am crying (3).MP4,True,True,96,25.0,3.84,1920,1080
+i am crying,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am crying\i am crying (4).MP4,True,True,77,25.0,3.08,1920,1080
+i am crying,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am crying\i am crying (5).MP4,True,True,98,25.0,3.92,1920,1080
+i am crying,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am crying\i am crying (6).MP4,True,True,111,25.0,4.44,1920,1080
+i am crying,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am crying\i am crying (7).MP4,True,True,82,25.0,3.28,1920,1080
+i am feeling bored,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am feeling bored\bored (2).MP4,True,True,74,25.0,2.96,1920,1080
+i am feeling bored,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am feeling bored\bored (3).MP4,True,True,122,25.0,4.88,1920,1080
+i am feeling bored,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am feeling bored\bored (4).MP4,True,True,119,25.0,4.76,1920,1080
+i am feeling bored,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am feeling bored\bored (5).MP4,True,True,101,25.0,4.04,1920,1080
+i am feeling bored,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am feeling bored\bored.MP4,True,True,96,25.0,3.84,1920,1080
+i am feeling cold,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am feeling cold\cold (2).MP4,True,True,77,25.0,3.08,1920,1080
+i am feeling cold,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am feeling cold\cold (3).MP4,True,True,83,25.0,3.32,1920,1080
+i am feeling cold,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am feeling cold\cold (4).MP4,True,True,81,25.0,3.24,1920,1080
+i am feeling cold,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am feeling cold\cold (5).MP4,True,True,82,25.0,3.28,1920,1080
+i am feeling cold,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am feeling cold\cold.MP4,True,True,76,25.0,3.04,1920,1080
+i am fine. thank you sir,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am fine. thank you sir\fine thank (2).MP4,True,True,109,25.0,4.36,1920,1080
+i am fine. thank you sir,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am fine. thank you sir\fine thank (3).MP4,True,True,138,25.0,5.52,1920,1080
+i am fine. thank you sir,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am fine. thank you sir\fine thank (4).MP4,True,True,102,25.0,4.08,1920,1080
+i am fine. thank you sir,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am fine. thank you sir\fine thank (5).MP4,True,True,129,25.0,5.16,1920,1080
+i am fine. thank you sir,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am fine. thank you sir\fine thank.MP4,True,True,132,25.0,5.28,1920,1080
+i am hungry,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am hungry\i am hungry   (3).MP4,True,True,103,25.0,4.12,1920,1080
+i am hungry,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am hungry\i am hungry   (4).MP4,True,True,127,25.0,5.08,1920,1080
+i am hungry,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am hungry\i am hungry   (5).MP4,True,True,106,25.0,4.24,1920,1080
+i am hungry,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am hungry\i am hungry   (6).MP4,True,True,100,25.0,4.0,1920,1080
+i am hungry,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am hungry\i am hungry   (7).MP4,True,True,104,25.0,4.16,1920,1080
+i am in dilemma what to do,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am in dilemma what to do\dilemma (2).MP4,True,True,153,25.0,6.12,1920,1080
+i am in dilemma what to do,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am in dilemma what to do\dilemma (3).MP4,True,True,183,25.0,7.32,1920,1080
+i am in dilemma what to do,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am in dilemma what to do\dilemma (4).MP4,True,True,192,25.0,7.68,1920,1080
+i am in dilemma what to do,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am in dilemma what to do\dilemma (5).MP4,True,True,141,25.0,5.64,1920,1080
+i am in dilemma what to do,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am in dilemma what to do\dilemma.MP4,True,True,168,25.0,6.72,1920,1080
+i am not really sure,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am not really sure\MVI_6546.MP4,True,True,78,25.0,3.12,1920,1080
+i am not really sure,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am not really sure\really sure (2).MP4,True,True,103,25.0,4.12,1920,1080
+i am not really sure,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am not really sure\really sure (3).MP4,True,True,81,25.0,3.24,1920,1080
+i am not really sure,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am not really sure\really sure (4).MP4,True,True,95,25.0,3.8,1920,1080
+i am not really sure,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am not really sure\really sure.MP4,True,True,100,25.0,4.0,1920,1080
+i am really grateful,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am really grateful\MVI_6104.MP4,True,True,133,25.0,5.32,1920,1080
+i am really grateful,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am really grateful\MVI_6395.MP4,True,True,131,25.0,5.24,1920,1080
+i am really grateful,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am really grateful\MVI_6539.MP4,True,True,93,25.0,3.72,1920,1080
+i am really grateful,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am really grateful\MVI_6721.MP4,True,True,120,25.0,4.8,1920,1080
+i am really grateful,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am really grateful\MVI_6849.MP4,True,True,110,25.0,4.4,1920,1080
+i am sitting in the class,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am sitting in the class\sitting (2).MP4,True,True,160,25.0,6.4,1920,1080
+i am sitting in the class,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am sitting in the class\sitting (3).MP4,True,True,173,25.0,6.92,1920,1080
+i am sitting in the class,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am sitting in the class\sitting (4).MP4,True,True,177,25.0,7.08,1920,1080
+i am sitting in the class,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am sitting in the class\sitting (5).MP4,True,True,176,25.0,7.04,1920,1080
+i am sitting in the class,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am sitting in the class\sitting.MP4,True,True,149,25.0,5.96,1920,1080
+i am so sorry to hear that,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am so sorry to hear that\sorry hear (2).MP4,True,True,88,25.0,3.52,1920,1080
+i am so sorry to hear that,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am so sorry to hear that\sorry hear (3).MP4,True,True,131,25.0,5.24,1920,1080
+i am so sorry to hear that,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am so sorry to hear that\sorry hear (4).MP4,True,True,115,25.0,4.6,1920,1080
+i am so sorry to hear that,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am so sorry to hear that\sorry hear (5).MP4,True,True,113,25.0,4.52,1920,1080
+i am so sorry to hear that,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am so sorry to hear that\sorry hear.MP4,True,True,123,25.0,4.92,1920,1080
+i am suffering from fever,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am suffering from fever\fever (2).MP4,True,True,72,25.0,2.88,1920,1080
+i am suffering from fever,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am suffering from fever\fever (3).MP4,True,True,100,25.0,4.0,1920,1080
+i am suffering from fever,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am suffering from fever\fever (4).MP4,True,True,101,25.0,4.04,1920,1080
+i am suffering from fever,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am suffering from fever\fever (5).MP4,True,True,97,25.0,3.88,1920,1080
+i am suffering from fever,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am suffering from fever\fever.MP4,True,True,98,25.0,3.92,1920,1080
+i am tired,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am tired\tired (2).MP4,True,True,95,25.0,3.8,1920,1080
+i am tired,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am tired\tired (3).MP4,True,True,102,25.0,4.08,1920,1080
+i am tired,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am tired\tired (4).MP4,True,True,74,25.0,2.96,1920,1080
+i am tired,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am tired\tired (5).MP4,True,True,116,25.0,4.64,1920,1080
+i am tired,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am tired\tired.MP4,True,True,105,25.0,4.2,1920,1080
+i am very happy,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am very happy\very happy (2).MP4,True,True,87,25.0,3.48,1920,1080
+i am very happy,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am very happy\very happy (3).MP4,True,True,74,25.0,2.96,1920,1080
+i am very happy,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am very happy\very happy (4).MP4,True,True,110,25.0,4.4,1920,1080
+i am very happy,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i am very happy\very happy.MP4,True,True,89,25.0,3.56,1920,1080
+i can not help you there,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i can not help you there\MVI_6109.MP4,True,True,128,25.0,5.12,1920,1080
+i can not help you there,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i can not help you there\MVI_6399.MP4,True,True,109,25.0,4.36,1920,1080
+i can not help you there,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i can not help you there\MVI_6545.MP4,True,True,94,25.0,3.76,1920,1080
+i can not help you there,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i can not help you there\MVI_6725.MP4,True,True,101,25.0,4.04,1920,1080
+i can not help you there,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i can not help you there\MVI_6854.MP4,True,True,86,25.0,3.44,1920,1080
+i do not agree,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i do not agree\agree (2).MP4,True,True,102,25.0,4.08,1920,1080
+i do not agree,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i do not agree\agree (3).MP4,True,True,110,25.0,4.4,1920,1080
+i do not agree,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i do not agree\agree (4).MP4,True,True,110,25.0,4.4,1920,1080
+i do not agree,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i do not agree\agree (5).MP4,True,True,130,25.0,5.2,1920,1080
+i do not agree,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i do not agree\agree.MP4,True,True,100,25.0,4.0,1920,1080
+i do not like it,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i do not like it\hate (2).MP4,True,True,88,25.0,3.52,1920,1080
+i do not like it,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i do not like it\hate (3).MP4,True,True,104,25.0,4.16,1920,1080
+i do not like it,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i do not like it\hate (4).MP4,True,True,109,25.0,4.36,1920,1080
+i do not like it,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i do not like it\hate it.MP4,True,True,105,25.0,4.2,1920,1080
+i do not like it,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i do not like it\hate.MP4,True,True,110,25.0,4.4,1920,1080
+i do not mean it,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i do not mean it\mean (2).MP4,True,True,149,25.0,5.96,1920,1080
+i do not mean it,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i do not mean it\mean (3).MP4,True,True,125,25.0,5.0,1920,1080
+i do not mean it,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i do not mean it\mean (4).MP4,True,True,107,25.0,4.28,1920,1080
+i do not mean it,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i do not mean it\mean (5).MP4,True,True,173,25.0,6.92,1920,1080
+i do not mean it,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i do not mean it\mean.MP4,True,True,105,25.0,4.2,1920,1080
+i dont agree,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i dont agree\MVI_6494.MP4,True,True,100,25.0,4.0,1920,1080
+i enjoyed a lot,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i enjoyed a lot\enjoy (2).MP4,True,True,83,25.0,3.32,1920,1080
+i enjoyed a lot,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i enjoyed a lot\enjoy.MP4,True,True,71,25.0,2.84,1920,1080
+i enjoyed a lot,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i enjoyed a lot\enjoyed (2).MP4,True,True,96,25.0,3.84,1920,1080
+i enjoyed a lot,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i enjoyed a lot\enjoyed (3).MP4,True,True,112,25.0,4.48,1920,1080
+i enjoyed a lot,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i enjoyed a lot\enjoyed (4).MP4,True,True,99,25.0,3.96,1920,1080
+i enjoyed a lot,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i enjoyed a lot\enjoyed.MP4,True,True,94,25.0,3.76,1920,1080
+i got hurt,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i got hurt\got hurt (2).MP4,True,True,95,25.0,3.8,1920,1080
+i got hurt,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i got hurt\got hurt (3).MP4,True,True,106,25.0,4.24,1920,1080
+i got hurt,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i got hurt\got hurt (4).MP4,True,True,95,25.0,3.8,1920,1080
+i got hurt,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i got hurt\got hurt (5).MP4,True,True,120,25.0,4.8,1920,1080
+i got hurt,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i got hurt\got hurt.MP4,True,True,97,25.0,3.88,1920,1080
+i like you i love you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i like you i love you\love.MP4,True,True,97,25.0,3.88,1920,1080
+i like you i love you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i like you i love you\MVI_6207.MP4,True,True,76,25.0,3.04,1920,1080
+i like you i love you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i like you i love you\MVI_6505.MP4,True,True,76,25.0,3.04,1920,1080
+i like you i love you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i like you i love you\MVI_6682.MP4,True,True,79,25.0,3.16,1920,1080
+i like you i love you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i like you i love you\MVI_6814.MP4,True,True,97,25.0,3.88,1920,1080
+i like you i love you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i like you i love you\MVI_6956.MP4,True,True,77,25.0,3.08,1920,1080
+i need water,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i need water\i need water 3.MP4,True,True,125,25.0,5.0,1920,1080
+i need water,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i need water\i need water 4.MP4,True,True,98,25.0,3.92,1920,1080
+i need water,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i need water\i need water 5.MP4,True,True,106,25.0,4.24,1920,1080
+i need water,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i need water\i need water 6.MP4,True,True,133,25.0,5.32,1920,1080
+i need water,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i need water\i need water 7.MP4,True,True,131,25.0,5.24,1920,1080
+i promise,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i promise\promise (2).MP4,True,True,109,25.0,4.36,1920,1080
+i promise,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i promise\promise (3).MP4,True,True,94,25.0,3.76,1920,1080
+i promise,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i promise\promise (4).MP4,True,True,95,25.0,3.8,1920,1080
+i promise,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i promise\promise (5).MP4,True,True,91,25.0,3.64,1920,1080
+i promise,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i promise\promise.MP4,True,True,88,25.0,3.52,1920,1080
+i really appreciate it,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i really appreciate it\i really appreciate it (3).MP4,True,True,105,25.0,4.2,1920,1080
+i really appreciate it,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i really appreciate it\i really appreciate it (4).MP4,True,True,116,25.0,4.64,1920,1080
+i really appreciate it,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i really appreciate it\i really appreciate it (5).MP4,True,True,99,25.0,3.96,1920,1080
+i really appreciate it,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i really appreciate it\i really appreciate it (6).MP4,True,True,93,25.0,3.72,1920,1080
+i really appreciate it,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i really appreciate it\i really appreciate it (7).MP4,True,True,90,25.0,3.6,1920,1080
+i somehow got to know about it,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i somehow got to know about it\somehow (2).MP4,True,True,104,25.0,4.16,1920,1080
+i somehow got to know about it,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i somehow got to know about it\somehow (3).MP4,True,True,149,25.0,5.96,1920,1080
+i somehow got to know about it,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i somehow got to know about it\somehow (4).MP4,True,True,146,25.0,5.84,1920,1080
+i somehow got to know about it,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i somehow got to know about it\somehow (5).MP4,True,True,122,25.0,4.88,1920,1080
+i somehow got to know about it,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i somehow got to know about it\somehow.MP4,True,True,116,25.0,4.64,1920,1080
+i was stopped by some one,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i was stopped by some one\MVI_6504.MP4,True,True,121,25.0,4.84,1920,1080
+i was stopped by some one,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i was stopped by some one\MVI_6955.MP4,True,True,116,25.0,4.64,1920,1080
+i was stopped by some one,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i was stopped by some one\stopped (2).MP4,True,True,129,25.0,5.16,1920,1080
+i was stopped by some one,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i was stopped by some one\stopped (3).MP4,True,True,104,25.0,4.16,1920,1080
+i was stopped by some one,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\i was stopped by some one\stopped.MP4,True,True,118,25.0,4.72,1920,1080
+it does not make any difference to me,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\it does not make any difference to me\difference (2).MP4,True,True,155,25.0,6.2,1920,1080
+it does not make any difference to me,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\it does not make any difference to me\difference (3).MP4,True,True,121,25.0,4.84,1920,1080
+it does not make any difference to me,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\it does not make any difference to me\difference (4).MP4,True,True,121,25.0,4.84,1920,1080
+it does not make any difference to me,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\it does not make any difference to me\difference (5).MP4,True,True,126,25.0,5.04,1920,1080
+it does not make any difference to me,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\it does not make any difference to me\difference.MP4,True,True,109,25.0,4.36,1920,1080
+it was nice chatting with you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\it was nice chatting with you\MVI_6107.MP4,True,True,135,25.0,5.4,1920,1080
+it was nice chatting with you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\it was nice chatting with you\MVI_6398.MP4,True,True,130,25.0,5.2,1920,1080
+it was nice chatting with you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\it was nice chatting with you\MVI_6542.MP4,True,True,126,25.0,5.04,1920,1080
+it was nice chatting with you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\it was nice chatting with you\MVI_6724.MP4,True,True,127,25.0,5.08,1920,1080
+it was nice chatting with you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\it was nice chatting with you\MVI_6853.MP4,True,True,134,25.0,5.36,1920,1080
+let him take time,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\let him take time\time (2).MP4,True,True,86,25.0,3.44,1920,1080
+let him take time,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\let him take time\time (3).MP4,True,True,117,25.0,4.68,1920,1080
+let him take time,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\let him take time\time (4).MP4,True,True,101,25.0,4.04,1920,1080
+let him take time,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\let him take time\time (5).MP4,True,True,90,25.0,3.6,1920,1080
+let him take time,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\let him take time\time.MP4,True,True,95,25.0,3.8,1920,1080
+my name is xxxxxxxx,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\my name is xxxxxxxx\my name is xxxxxxxx (1).MP4,True,True,86,25.0,3.44,1920,1080
+my name is xxxxxxxx,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\my name is xxxxxxxx\my name is xxxxxxxx (2).MP4,True,True,88,25.0,3.52,1920,1080
+my name is xxxxxxxx,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\my name is xxxxxxxx\my name is xxxxxxxx (3).MP4,True,True,56,25.0,2.24,1920,1080
+my name is xxxxxxxx,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\my name is xxxxxxxx\my name is xxxxxxxx (4).MP4,True,True,71,25.0,2.84,1920,1080
+my name is xxxxxxxx,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\my name is xxxxxxxx\my name is xxxxxxxx (5).MP4,True,True,67,25.0,2.68,1920,1080
+nice to meet you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\nice to meet you\nice to meet you (1).MP4,True,True,118,25.0,4.72,1920,1080
+nice to meet you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\nice to meet you\nice to meet you (3).MP4,True,True,115,25.0,4.6,1920,1080
+nice to meet you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\nice to meet you\nice to meet you (4).MP4,True,True,111,25.0,4.44,1920,1080
+nice to meet you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\nice to meet you\nice to meet you (5).MP4,True,True,128,25.0,5.12,1920,1080
+nice to meet you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\nice to meet you\nice to meet you (6).MP4,True,True,94,25.0,3.76,1920,1080
+No need to worry dont worry,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\No need to worry dont worry\MVI_6496.MP4,True,True,97,25.0,3.88,1920,1080
+now onwards he will never hurt you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\now onwards he will never hurt you\never hurt (2).MP4,True,True,131,25.0,5.24,1920,1080
+now onwards he will never hurt you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\now onwards he will never hurt you\never hurt (3).MP4,True,True,170,25.0,6.8,1920,1080
+now onwards he will never hurt you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\now onwards he will never hurt you\never hurt (4).MP4,True,True,153,25.0,6.12,1920,1080
+now onwards he will never hurt you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\now onwards he will never hurt you\never hurt (5).MP4,True,True,179,25.0,7.16,1920,1080
+now onwards he will never hurt you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\now onwards he will never hurt you\never hurt.MP4,True,True,146,25.0,5.84,1920,1080
+pour some more water into the glass,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\pour some more water into the glass\pour (2).MP4,True,True,93,25.0,3.72,1920,1080
+pour some more water into the glass,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\pour some more water into the glass\pour (3).MP4,True,True,96,25.0,3.84,1920,1080
+pour some more water into the glass,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\pour some more water into the glass\pour (4).MP4,True,True,92,25.0,3.68,1920,1080
+pour some more water into the glass,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\pour some more water into the glass\pour (5).MP4,True,True,96,25.0,3.84,1920,1080
+pour some more water into the glass,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\pour some more water into the glass\pour.MP4,True,True,100,25.0,4.0,1920,1080
+prepare the bed,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\prepare the bed\bed (2).MP4,True,True,96,25.0,3.84,1920,1080
+prepare the bed,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\prepare the bed\bed (3).MP4,True,True,145,25.0,5.8,1920,1080
+prepare the bed,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\prepare the bed\bed (4).MP4,True,True,110,25.0,4.4,1920,1080
+prepare the bed,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\prepare the bed\bed (5).MP4,True,True,120,25.0,4.8,1920,1080
+prepare the bed,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\prepare the bed\bed.MP4,True,True,115,25.0,4.6,1920,1080
+serve the food,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\serve the food\serve (2).MP4,True,True,113,25.0,4.52,1920,1080
+serve the food,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\serve the food\serve (3).MP4,True,True,166,25.0,6.64,1920,1080
+serve the food,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\serve the food\serve (4).MP4,True,True,125,25.0,5.0,1920,1080
+serve the food,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\serve the food\serve (5).MP4,True,True,112,25.0,4.48,1920,1080
+serve the food,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\serve the food\serve 1.MP4,True,True,142,25.0,5.68,1920,1080
+serve the food,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\serve the food\serve food.MP4,True,True,120,25.0,4.8,1920,1080
+serve the food,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\serve the food\serve.MP4,True,True,126,25.0,5.04,1920,1080
+shall we go outside,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\shall we go outside\MVI_6498.MP4,True,True,92,25.0,3.68,1920,1080
+shall we go outside,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\shall we go outside\outside (2).MP4,True,True,107,25.0,4.28,1920,1080
+shall we go outside,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\shall we go outside\outside (3).MP4,True,True,97,25.0,3.88,1920,1080
+shall we go outside,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\shall we go outside\outside (4).MP4,True,True,122,25.0,4.88,1920,1080
+shall we go outside,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\shall we go outside\outside.MP4,True,True,108,25.0,4.32,1920,1080
+speak softly,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\speak softly\softly (2).MP4,True,True,82,25.0,3.28,1920,1080
+speak softly,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\speak softly\softly (3).MP4,True,True,101,25.0,4.04,1920,1080
+speak softly,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\speak softly\softly (4).MP4,True,True,84,25.0,3.36,1920,1080
+speak softly,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\speak softly\softly (5).MP4,True,True,75,25.0,3.0,1920,1080
+speak softly,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\speak softly\softly 1.MP4,True,True,90,25.0,3.6,1920,1080
+speak softly,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\speak softly\softly.MP4,True,True,89,25.0,3.56,1920,1080
+take care of yourself,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\take care of yourself\Take care (2).MP4,True,True,99,25.0,3.96,1920,1080
+take care of yourself,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\take care of yourself\take care (3).MP4,True,True,121,25.0,4.84,1920,1080
+take care of yourself,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\take care of yourself\take care (4).MP4,True,True,102,25.0,4.08,1920,1080
+take care of yourself,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\take care of yourself\take care (5).MP4,True,True,120,25.0,4.8,1920,1080
+take care of yourself,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\take care of yourself\take care.MP4,True,True,130,25.0,5.2,1920,1080
+tell me truth,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\tell me truth\truth (2).MP4,True,True,84,25.0,3.36,1920,1080
+tell me truth,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\tell me truth\truth (3).MP4,True,True,73,25.0,2.92,1920,1080
+tell me truth,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\tell me truth\truth (4).MP4,True,True,81,25.0,3.24,1920,1080
+tell me truth,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\tell me truth\truth.MP4,True,True,77,25.0,3.08,1920,1080
+thank you so much,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\thank you so much\thank you so much (1).MP4,True,True,108,25.0,4.32,1920,1080
+thank you so much,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\thank you so much\thank you so much (3).MP4,True,True,98,25.0,3.92,1920,1080
+thank you so much,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\thank you so much\thank you so much (4).MP4,True,True,100,25.0,4.0,1920,1080
+thank you so much,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\thank you so much\thank you so much (5).MP4,True,True,81,25.0,3.24,1920,1080
+thank you so much,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\thank you so much\thank you so much (6).MP4,True,True,77,25.0,3.08,1920,1080
+that is so kind of you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\that is so kind of you\MVI_6106.MP4,True,True,100,25.0,4.0,1920,1080
+that is so kind of you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\that is so kind of you\MVI_6396.MP4,True,True,116,25.0,4.64,1920,1080
+that is so kind of you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\that is so kind of you\MVI_6540.MP4,True,True,87,25.0,3.48,1920,1080
+that is so kind of you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\that is so kind of you\MVI_6722.MP4,True,True,94,25.0,3.76,1920,1080
+that is so kind of you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\that is so kind of you\MVI_6850.MP4,True,True,79,25.0,3.16,1920,1080
+This place is beautiful,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\This place is beautiful\beautiful (2).MP4,True,True,128,25.0,5.12,1920,1080
+This place is beautiful,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\This place is beautiful\beautiful (3).MP4,True,True,95,25.0,3.8,1920,1080
+This place is beautiful,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\This place is beautiful\beautiful (4).MP4,True,True,112,25.0,4.48,1920,1080
+This place is beautiful,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\This place is beautiful\beautiful.MP4,True,True,97,25.0,3.88,1920,1080
+This place is beautiful,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\This place is beautiful\MVI_6502.MP4,True,True,105,25.0,4.2,1920,1080
+try to understand,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\try to understand\understand (2).MP4,True,True,145,25.0,5.8,1920,1080
+try to understand,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\try to understand\understand (3).MP4,True,True,139,25.0,5.56,1920,1080
+try to understand,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\try to understand\understand (4).MP4,True,True,130,25.0,5.2,1920,1080
+try to understand,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\try to understand\understand (5).MP4,True,True,145,25.0,5.8,1920,1080
+try to understand,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\try to understand\understand.MP4,True,True,119,25.0,4.76,1920,1080
+turn on light turn off light,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\turn on light turn off light\turn on (2).MP4,True,True,74,25.0,2.96,1920,1080
+turn on light turn off light,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\turn on light turn off light\turn on (3).MP4,True,True,93,25.0,3.72,1920,1080
+turn on light turn off light,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\turn on light turn off light\turn on (4).MP4,True,True,66,25.0,2.64,1920,1080
+turn on light turn off light,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\turn on light turn off light\turn on (5).MP4,True,True,81,25.0,3.24,1920,1080
+turn on light turn off light,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\turn on light turn off light\turn on.MP4,True,True,65,25.0,2.6,1920,1080
+we are all with you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\we are all with you\all.MP4,True,True,114,25.0,4.56,1920,1080
+we are all with you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\we are all with you\MVI_6208.MP4,True,True,89,25.0,3.56,1920,1080
+we are all with you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\we are all with you\MVI_6506.MP4,True,True,86,25.0,3.44,1920,1080
+we are all with you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\we are all with you\MVI_6684.MP4,True,True,80,25.0,3.2,1920,1080
+we are all with you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\we are all with you\MVI_6957.MP4,True,True,99,25.0,3.96,1920,1080
+wear the shirt,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\wear the shirt\shirt (2).MP4,True,True,69,25.0,2.76,1920,1080
+wear the shirt,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\wear the shirt\shirt (3).MP4,True,True,94,25.0,3.76,1920,1080
+wear the shirt,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\wear the shirt\shirt (4).MP4,True,True,110,25.0,4.4,1920,1080
+wear the shirt,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\wear the shirt\shirt (5).MP4,True,True,100,25.0,4.0,1920,1080
+wear the shirt,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\wear the shirt\shirt.MP4,True,True,82,25.0,3.28,1920,1080
+what are you doing,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\what are you doing\what are you doing (1).MP4,True,True,93,25.0,3.72,1920,1080
+what are you doing,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\what are you doing\what are you doing (3).MP4,True,True,92,25.0,3.68,1920,1080
+what are you doing,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\what are you doing\what are you doing (4).MP4,True,True,93,25.0,3.72,1920,1080
+what are you doing,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\what are you doing\what are you doing (5).MP4,True,True,112,25.0,4.48,1920,1080
+what are you doing,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\what are you doing\what are you doing (6).MP4,True,True,99,25.0,3.96,1920,1080
+what did you tell him,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\what did you tell him\MVI_6497.MP4,True,True,83,25.0,3.32,1920,1080
+what did you tell him,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\what did you tell him\tell him (2).MP4,True,True,81,25.0,3.24,1920,1080
+what did you tell him,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\what did you tell him\tell him (3).MP4,True,True,106,25.0,4.24,1920,1080
+what did you tell him,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\what did you tell him\tell him (4).MP4,True,True,102,25.0,4.08,1920,1080
+what did you tell him,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\what did you tell him\tell him.MP4,True,True,77,25.0,3.08,1920,1080
+what do you do,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\what do you do\what do you do (1).MP4,True,True,92,25.0,3.68,1920,1080
+what do you do,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\what do you do\what do you do (3).MP4,True,True,89,25.0,3.56,1920,1080
+what do you do,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\what do you do\what do you do (4).MP4,True,True,99,25.0,3.96,1920,1080
+what do you do,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\what do you do\what do you do (5).MP4,True,True,89,25.0,3.56,1920,1080
+what do you think,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\what do you think\what do you think (1).MP4,True,True,99,25.0,3.96,1920,1080
+what do you think,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\what do you think\what do you think (3).MP4,True,True,79,25.0,3.16,1920,1080
+what do you think,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\what do you think\what do you think (4).MP4,True,True,75,25.0,3.0,1920,1080
+what do you think,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\what do you think\what do you think (5).MP4,True,True,100,25.0,4.0,1920,1080
+what do you think,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\what do you think\what do you think (6).MP4,True,True,86,25.0,3.44,1920,1080
+what do you want to become,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\what do you want to become\become (2).MP4,True,True,85,25.0,3.4,1920,1080
+what do you want to become,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\what do you want to become\become (3).MP4,True,True,113,25.0,4.52,1920,1080
+what do you want to become,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\what do you want to become\become (4).MP4,True,True,92,25.0,3.68,1920,1080
+what do you want to become,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\what do you want to become\become (5).MP4,True,True,104,25.0,4.16,1920,1080
+what do you want to become,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\what do you want to become\become.MP4,True,True,96,25.0,3.84,1920,1080
+what happened,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\what happened\happen.MP4,True,True,94,25.0,3.76,1920,1080
+what happened,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\what happened\happened (2).MP4,True,True,89,25.0,3.56,1920,1080
+what happened,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\what happened\happened (3).MP4,True,True,89,25.0,3.56,1920,1080
+what happened,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\what happened\happened.MP4,True,True,62,25.0,2.48,1920,1080
+what happened,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\what happened\MVI_6495.MP4,True,True,94,25.0,3.76,1920,1080
+what have you planned for your career,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\what have you planned for your career\MVI_6499.MP4,True,True,146,25.0,5.84,1920,1080
+what is your phone number,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\what is your phone number\what is your phone number (1).MP4,True,True,147,25.0,5.88,1920,1080
+what is your phone number,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\what is your phone number\what is your phone number (3).MP4,True,True,116,25.0,4.64,1920,1080
+what is your phone number,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\what is your phone number\what is your phone number (4).MP4,True,True,138,25.0,5.52,1920,1080
+what is your phone number,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\what is your phone number\what is your phone number (5).MP4,True,True,134,25.0,5.36,1920,1080
+what is your phone number,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\what is your phone number\what is your phone number (6).MP4,True,True,112,25.0,4.48,1920,1080
+what you want,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\what you want\what you want (1).MP4,True,True,88,25.0,3.52,1920,1080
+what you want,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\what you want\what you want (3).MP4,True,True,92,25.0,3.68,1920,1080
+what you want,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\what you want\what you want (4).MP4,True,True,105,25.0,4.2,1920,1080
+what you want,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\what you want\what you want (5).MP4,True,True,94,25.0,3.76,1920,1080
+what you want,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\what you want\what you want (6).MP4,True,True,93,25.0,3.72,1920,1080
+when will the train leave,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\when will the train leave\leave (2).MP4,True,True,119,25.0,4.76,1920,1080
+when will the train leave,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\when will the train leave\leave (3).MP4,True,True,110,25.0,4.4,1920,1080
+when will the train leave,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\when will the train leave\leave (4).MP4,True,True,107,25.0,4.28,1920,1080
+when will the train leave,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\when will the train leave\leave (5).MP4,True,True,117,25.0,4.68,1920,1080
+when will the train leave,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\when will the train leave\leave.MP4,True,True,121,25.0,4.84,1920,1080
+where are you from,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\where are you from\where are you from (1).MP4,True,True,96,25.0,3.84,1920,1080
+where are you from,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\where are you from\where are you from (3).MP4,True,True,95,25.0,3.8,1920,1080
+where are you from,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\where are you from\where are you from (4).MP4,True,True,95,25.0,3.8,1920,1080
+where are you from,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\where are you from\where are you from (5).MP4,True,True,96,25.0,3.84,1920,1080
+which collegeschool are you from,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\which collegeschool are you from\college school (2).MP4,True,True,174,25.0,6.96,1920,1080
+which collegeschool are you from,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\which collegeschool are you from\college school (3).MP4,True,True,149,25.0,5.96,1920,1080
+which collegeschool are you from,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\which collegeschool are you from\college school.MP4,True,True,141,25.0,5.64,1920,1080
+which collegeschool are you from,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\which collegeschool are you from\school college (2).MP4,True,True,192,25.0,7.68,1920,1080
+which collegeschool are you from,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\which collegeschool are you from\school college.MP4,True,True,129,25.0,5.16,1920,1080
+who are you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\who are you\who are you (1).MP4,True,True,106,25.0,4.24,1920,1080
+who are you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\who are you\who are you (3).MP4,True,True,83,25.0,3.32,1920,1080
+who are you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\who are you\who are you (4).MP4,True,True,75,25.0,3.0,1920,1080
+who are you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\who are you\who are you (5).MP4,True,True,70,25.0,2.8,1920,1080
+who are you,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\who are you\who are you (6).MP4,True,True,87,25.0,3.48,1920,1080
+why are you angry,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\why are you angry\angry (2).MP4,True,True,88,25.0,3.52,1920,1080
+why are you angry,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\why are you angry\angry (3).MP4,True,True,93,25.0,3.72,1920,1080
+why are you angry,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\why are you angry\angry (4).MP4,True,True,99,25.0,3.96,1920,1080
+why are you angry,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\why are you angry\angry (5).MP4,True,True,93,25.0,3.72,1920,1080
+why are you angry,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\why are you angry\angry.MP4,True,True,79,25.0,3.16,1920,1080
+why are you crying,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\why are you crying\crying (2).MP4,True,True,100,25.0,4.0,1920,1080
+why are you crying,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\why are you crying\crying (3).MP4,True,True,116,25.0,4.64,1920,1080
+why are you crying,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\why are you crying\crying (4).MP4,True,True,91,25.0,3.64,1920,1080
+why are you crying,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\why are you crying\crying (5).MP4,True,True,100,25.0,4.0,1920,1080
+why are you crying,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\why are you crying\crying.MP4,True,True,100,25.0,4.0,1920,1080
+why are you disappointed,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\why are you disappointed\disappointed (2).MP4,True,True,123,25.0,4.92,1920,1080
+why are you disappointed,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\why are you disappointed\disappointed (3).MP4,True,True,103,25.0,4.12,1920,1080
+why are you disappointed,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\why are you disappointed\disappointed (4).MP4,True,True,99,25.0,3.96,1920,1080
+why are you disappointed,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\why are you disappointed\disappointed (5).MP4,True,True,116,25.0,4.64,1920,1080
+why are you disappointed,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\why are you disappointed\disappointed.MP4,True,True,94,25.0,3.76,1920,1080
+you are bad,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\you are bad\bad (2).MP4,True,True,77,25.0,3.08,1920,1080
+you are bad,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\you are bad\bad (3).MP4,True,True,76,25.0,3.04,1920,1080
+you are bad,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\you are bad\bad (4).MP4,True,True,73,25.0,2.92,1920,1080
+you are bad,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\you are bad\bad (5).MP4,True,True,58,25.0,2.32,1920,1080
+you are bad,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\you are bad\bad 1.MP4,True,True,101,25.0,4.04,1920,1080
+you are bad,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\you are bad\bad.MP4,True,True,75,25.0,3.0,1920,1080
+you are good,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\you are good\good (2).MP4,True,True,71,25.0,2.84,1920,1080
+you are good,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\you are good\good (3).MP4,True,True,69,25.0,2.76,1920,1080
+you are good,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\you are good\good (4).MP4,True,True,70,25.0,2.8,1920,1080
+you are good,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\you are good\good (5).MP4,True,True,76,25.0,3.04,1920,1080
+you are good,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\you are good\good.MP4,True,True,66,25.0,2.64,1920,1080
+you are welcome,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\you are welcome\welcome (2).MP4,True,True,51,25.0,2.04,1920,1080
+you are welcome,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\you are welcome\welcome (3).MP4,True,True,83,25.0,3.32,1920,1080
+you are welcome,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\you are welcome\welcome (4).MP4,True,True,66,25.0,2.64,1920,1080
+you are welcome,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\you are welcome\welcome (5).MP4,True,True,82,25.0,3.28,1920,1080
+you are welcome,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\you are welcome\welcome.MP4,True,True,71,25.0,2.84,1920,1080
+you can do it,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\you can do it\can do (2).MP4,True,True,95,25.0,3.8,1920,1080
+you can do it,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\you can do it\can do (3).MP4,True,True,98,25.0,3.92,1920,1080
+you can do it,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\you can do it\can do (4).MP4,True,True,87,25.0,3.48,1920,1080
+you can do it,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\you can do it\can do (5).MP4,True,True,85,25.0,3.4,1920,1080
+you can do it,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\you can do it\can do.MP4,True,True,95,25.0,3.8,1920,1080
+"you do anything, i do not care","C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\you do anything, i do not care\care.MP4",True,True,169,25.0,6.76,1920,1080
+"you do anything, i do not care","C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\you do anything, i do not care\donotcare.MP4",True,True,133,25.0,5.32,1920,1080
+"you do anything, i do not care","C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\you do anything, i do not care\dont care (2).MP4",True,True,150,25.0,6.0,1920,1080
+"you do anything, i do not care","C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\you do anything, i do not care\dont care.MP4",True,True,186,25.0,7.44,1920,1080
+"you need a medicine, take this one","C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\you need a medicine, take this one\medicine (2).MP4",True,True,118,25.0,4.72,1920,1080
+"you need a medicine, take this one","C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\you need a medicine, take this one\medicine (3).MP4",True,True,155,25.0,6.2,1920,1080
+"you need a medicine, take this one","C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\you need a medicine, take this one\medicine (4).MP4",True,True,111,25.0,4.44,1920,1080
+"you need a medicine, take this one","C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\you need a medicine, take this one\medicine (5).MP4",True,True,115,25.0,4.6,1920,1080
+"you need a medicine, take this one","C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\Videos_Sentence_Level\you need a medicine, take this one\medicine.MP4",True,True,118,25.0,4.72,1920,1080
+nan,C:\Users\prana\Downloads\archive (5)\ISL_CSLRT_Corpus\ISL_CSLRT_Corpus\>>>,False,False,0,0.0,0.0,0,0

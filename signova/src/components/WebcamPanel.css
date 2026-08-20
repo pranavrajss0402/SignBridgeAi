@@ -1,0 +1,158 @@
+/* =========================================================
+   CAMERA CONTROLS
+   ========================================================= */
+
+.camera-controls {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 16px;
+}
+
+
+/* =========================================================
+   START CAMERA
+   Same style as Profile Settings Save button
+   ========================================================= */
+
+.btn-camera {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  min-width: 140px;
+  height: 38px;
+
+  padding: 0 16px;
+
+  box-sizing: border-box;
+
+  border: none;
+  border-radius: 8px;
+
+  background-color: var(--color-primary-purple);
+  color: white;
+
+  font-family: inherit;
+  font-size: 13px;
+  font-weight: 600;
+
+  cursor: pointer;
+
+  transition:
+    background-color 0.2s ease,
+    transform 0.2s ease,
+    opacity 0.2s ease;
+}
+
+.btn-camera:hover:not(:disabled) {
+  opacity: 0.9;
+  transform: translateY(-1px);
+}
+
+.btn-camera:active:not(:disabled) {
+  transform: translateY(0);
+}
+
+.btn-camera:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+  transform: none;
+}
+
+.btn-camera:focus-visible {
+  outline: 2px solid var(--color-primary-purple);
+  outline-offset: 2px;
+}
+
+
+/* =========================================================
+   STOP CAMERA
+   Same style as Profile Settings Cancel button
+   ========================================================= */
+
+.btn-stop {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  min-width: 140px;
+  height: 38px;
+
+  padding: 0 16px;
+
+  box-sizing: border-box;
+
+  border: 1px solid var(--color-border);
+  border-radius: 8px;
+
+  background-color: white;
+  color: var(--color-text-primary);
+
+  font-family: inherit;
+  font-size: 13px;
+  font-weight: 600;
+
+  cursor: pointer;
+
+  transition:
+    background-color 0.2s ease,
+    transform 0.2s ease,
+    opacity 0.2s ease;
+}
+
+.btn-stop:hover:not(:disabled) {
+  background-color: #f5f5f5;
+  transform: translateY(-1px);
+}
+
+.btn-stop:active:not(:disabled) {
+  transform: translateY(0);
+}
+
+.btn-stop:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+  transform: none;
+}
+
+.btn-stop:focus-visible {
+  outline: 2px solid var(--color-primary-purple);
+  outline-offset: 2px;
+}
+
+
+/* =========================================================
+   MOBILE
+   ========================================================= */
+
+@media (max-width: 768px) {
+  .camera-controls {
+    width: 100%;
+    gap: 10px;
+  }
+
+  .btn-camera,
+  .btn-stop {
+    flex: 1;
+    min-width: 0;
+  }
+}
+
+
+/* =========================================================
+   SMALL MOBILE
+   ========================================================= */
+
+@media (max-width: 480px) {
+  .camera-controls {
+    gap: 8px;
+  }
+
+  .btn-camera,
+  .btn-stop {
+    height: 38px;
+    padding: 0 12px;
+    font-size: 13px;
+  }
+}

@@ -1,0 +1,308 @@
+.dashboard-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+
+/* Main scrollable dashboard area */
+.dashboard-content {
+  flex: 1 1 auto;
+  width: 100%;
+  min-width: 0;
+  min-height: 0;
+
+  overflow-y: auto;
+  overflow-x: hidden;
+
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-lg);
+
+  box-sizing: border-box;
+}
+
+/* =========================================================
+   PAGE HEADER
+   ========================================================= */
+
+.page-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+
+  width: 100%;
+  min-width: 0;
+
+  gap: var(--spacing-lg);
+  box-sizing: border-box;
+}
+
+.page-title {
+  font-size: 32px;
+  font-weight: 700;
+  color: var(--color-text-primary);
+
+  margin: 0 0 8px 0;
+  line-height: 1.2;
+
+  overflow-wrap: break-word;
+}
+
+.page-subtitle {
+  font-size: 14px;
+  color: var(--color-text-secondary);
+
+  margin: 0;
+
+  overflow-wrap: break-word;
+}
+
+/* =========================================================
+   DASHBOARD GRID
+   ========================================================= */
+
+/*
+  Important:
+  minmax(0, 1fr) prevents the left column from forcing
+  the right column outside the available space.
+*/
+
+.dashboard-grid {
+  display: grid;
+
+  grid-template-columns:
+    minmax(0, 1fr)
+    minmax(280px, 320px);
+
+  gap: var(--spacing-lg);
+
+  width: 100%;
+  min-width: 0;
+
+  box-sizing: border-box;
+}
+
+/* =========================================================
+   LEFT COLUMN
+   ========================================================= */
+
+.dashboard-left {
+  display: flex;
+  flex-direction: column;
+
+  gap: var(--spacing-lg);
+
+  width: 100%;
+  min-width: 0;
+
+  box-sizing: border-box;
+}
+
+/* =========================================================
+   RIGHT COLUMN
+   ========================================================= */
+
+.dashboard-right {
+  display: flex;
+  flex-direction: column;
+
+  gap: var(--spacing-lg);
+
+  width: 100%;
+
+  /*
+    Important:
+    Do not force the right column to remain 280px wide.
+    Let Grid control its width.
+  */
+  min-width: 0;
+
+  box-sizing: border-box;
+}
+
+/* =========================================================
+   LARGE DESKTOP
+   ========================================================= */
+
+/*
+  Above 1440px we keep the same two-column layout.
+  This is important because the original CSS did not have
+  an explicit large-screen rule.
+*/
+
+@media (min-width: 1441px) {
+  .dashboard-grid {
+    grid-template-columns:
+      minmax(0, 1fr)
+      minmax(300px, 320px);
+
+    gap: var(--spacing-lg);
+  }
+
+  .dashboard-content {
+    gap: var(--spacing-lg);
+  }
+}
+
+/* =========================================================
+   DESKTOP
+   ========================================================= */
+
+@media (max-width: 1440px) {
+  .dashboard-grid {
+    grid-template-columns:
+      minmax(0, 1fr)
+      minmax(280px, 300px);
+
+    gap: var(--spacing-md);
+  }
+
+  .page-title {
+    font-size: 28px;
+  }
+}
+
+/* =========================================================
+   SMALL DESKTOP / TABLET
+   ========================================================= */
+
+@media (max-width: 1024px) {
+  .dashboard-grid {
+    grid-template-columns:
+      minmax(0, 1fr)
+      minmax(260px, 280px);
+
+    gap: var(--spacing-md);
+  }
+
+  .dashboard-content {
+    gap: var(--spacing-md);
+  }
+
+  .dashboard-left,
+  .dashboard-right {
+    gap: var(--spacing-md);
+  }
+
+  .page-title {
+    font-size: 26px;
+  }
+}
+
+/* =========================================================
+   TABLET
+   ========================================================= */
+
+@media (max-width: 912px) {
+  .dashboard-grid {
+    grid-template-columns: minmax(0, 1fr);
+    gap: var(--spacing-md);
+  }
+
+  .dashboard-right {
+    display: grid;
+
+    grid-template-columns:
+      repeat(2, minmax(0, 1fr));
+
+    gap: var(--spacing-md);
+
+    min-width: 0;
+  }
+}
+
+/* =========================================================
+   MOBILE / SMALL TABLET
+   ========================================================= */
+
+@media (max-width: 768px) {
+  .dashboard-content {
+    gap: var(--spacing-md);
+  }
+
+  .dashboard-grid {
+    grid-template-columns: minmax(0, 1fr);
+    gap: var(--spacing-md);
+  }
+
+  .dashboard-left {
+    min-width: 0;
+  }
+
+  .dashboard-right {
+    display: flex;
+    flex-direction: column;
+
+    min-width: 0;
+
+    gap: var(--spacing-md);
+  }
+
+  .page-title {
+    font-size: 24px;
+  }
+
+  .page-subtitle {
+    font-size: 13px;
+  }
+}
+
+/* =========================================================
+   SMALL MOBILE
+   ========================================================= */
+
+@media (max-width: 480px) {
+  .dashboard-content {
+    gap: var(--spacing-md);
+  }
+
+  .dashboard-grid {
+    grid-template-columns: minmax(0, 1fr);
+    gap: var(--spacing-md);
+  }
+
+  .dashboard-left,
+  .dashboard-right {
+    gap: var(--spacing-md);
+
+    min-width: 0;
+  }
+
+  .page-title {
+    font-size: 20px;
+  }
+
+  .page-subtitle {
+    font-size: 12px;
+  }
+}
+
+/* =========================================================
+   SCROLLBAR
+   ========================================================= */
+
+.dashboard-wrapper::-webkit-scrollbar {
+  width: 6px;
+}
+
+.dashboard-wrapper::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.dashboard-wrapper::-webkit-scrollbar-thumb {
+  background: #d0d0d0;
+  border-radius: 3px;
+}
+
+.dashboard-wrapper::-webkit-scrollbar-thumb:hover {
+  background: #b0b0b0;
+}
+
+/* Firefox scrollbar */
+.dashboard-wrapper {
+  scrollbar-width: thin;
+  scrollbar-color: #d0d0d0 transparent;
+}

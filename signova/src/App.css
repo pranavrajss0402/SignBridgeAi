@@ -1,0 +1,281 @@
+/* =========================================================
+   APPLICATION LAYOUT
+   ========================================================= */
+
+.app-container {
+  display: flex;
+
+  width: 100%;
+  height: 100vh;
+
+  min-width: 0;
+  min-height: 0;
+
+  overflow: hidden;
+
+  background-color: var(--color-bg-main);
+}
+
+
+/* =========================================================
+   MAIN WRAPPER
+   ========================================================= */
+
+.main-wrapper {
+  display: flex;
+  flex-direction: column;
+
+  flex: 1 1 auto;
+
+  width: calc(100% - 268px);
+
+  min-width: 0;
+  min-height: 0;
+
+  margin-left: 268px;
+
+  overflow: hidden;
+}
+
+
+/* =========================================================
+   MAIN CONTENT
+   ========================================================= */
+
+.main-content {
+  flex: 1 1 auto;
+
+  width: 100%;
+
+  min-width: 0;
+  min-height: 0;
+
+  overflow-y: auto;
+  overflow-x: hidden;
+
+  padding: var(--spacing-lg);
+
+  box-sizing: border-box;
+
+  background-color: var(--color-bg-main);
+}
+
+
+/* =========================================================
+   PAGE PLACEHOLDER
+   ========================================================= */
+
+.page-placeholder {
+  width: 100%;
+  min-height: 100%;
+
+  box-sizing: border-box;
+}
+
+.page-placeholder-header {
+  margin-bottom: 24px;
+}
+
+.page-placeholder-header h1 {
+  margin: 0 0 8px;
+
+  font-size: 32px;
+  font-weight: 700;
+
+  color: var(--color-text-primary);
+}
+
+.page-placeholder-header p {
+  margin: 0;
+
+  font-size: 14px;
+  line-height: 1.6;
+
+  color: var(--color-text-secondary);
+}
+
+
+/* =========================================================
+   EMPTY STATE
+   ========================================================= */
+
+.empty-state {
+  padding: 40px;
+
+  text-align: center;
+
+  background-color: white;
+
+  border: 1px solid var(--color-border);
+
+  border-radius: 12px;
+}
+
+.empty-state h2 {
+  margin: 0 0 8px;
+
+  font-size: 20px;
+
+  color: var(--color-text-primary);
+}
+
+.empty-state p {
+  margin: 0;
+
+  font-size: 14px;
+
+  color: var(--color-text-secondary);
+}
+
+
+/* =========================================================
+   OLD SETTINGS SUPPORT
+   ========================================================= */
+
+.setting-row {
+  display: flex;
+
+  align-items: center;
+  justify-content: space-between;
+
+  gap: 20px;
+
+  padding: 20px;
+
+  border-bottom: 1px solid var(--color-border);
+}
+
+.setting-row:last-child {
+  border-bottom: none;
+}
+
+.setting-row h3 {
+  margin: 0 0 5px;
+
+  font-size: 15px;
+
+  color: var(--color-text-primary);
+}
+
+.setting-row p {
+  margin: 0;
+
+  font-size: 13px;
+  line-height: 1.5;
+
+  color: var(--color-text-secondary);
+}
+
+.setting-status {
+  padding: 5px 10px;
+
+  border-radius: 20px;
+
+  font-size: 12px;
+  font-weight: 600;
+
+  color: var(--color-primary-purple);
+
+  background-color: #f1ecff;
+
+  white-space: nowrap;
+}
+
+
+/* =========================================================
+   TABLET
+   ========================================================= */
+
+@media (max-width: 1024px) {
+
+  .main-wrapper {
+    width: calc(100% - 240px);
+
+    margin-left: 240px;
+  }
+
+  .main-content {
+    padding: var(--spacing-md);
+  }
+
+  .page-placeholder-header h1 {
+    font-size: 28px;
+  }
+}
+
+
+/* =========================================================
+   MOBILE
+   ========================================================= */
+
+@media (max-width: 768px) {
+
+  .main-wrapper {
+    width: 100%;
+
+    margin-left: 0;
+  }
+
+  .main-content {
+    padding: var(--spacing-md);
+  }
+
+  .page-placeholder-header h1 {
+    font-size: 26px;
+  }
+
+  .empty-state {
+    padding: 30px 20px;
+  }
+
+  .setting-row {
+    align-items: flex-start;
+
+    padding: 16px;
+  }
+}
+
+
+/* =========================================================
+   SMALL MOBILE
+   ========================================================= */
+
+@media (max-width: 480px) {
+
+  .main-content {
+    padding: var(--spacing-sm);
+  }
+
+  .page-placeholder-header h1 {
+    font-size: 22px;
+  }
+
+  .setting-row {
+    flex-direction: column;
+
+    gap: 10px;
+  }
+}
+
+
+/* =========================================================
+   MAIN CONTENT SCROLLBAR
+   ========================================================= */
+
+.main-content::-webkit-scrollbar {
+  width: 6px;
+}
+
+.main-content::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.main-content::-webkit-scrollbar-thumb {
+  background: #c0c0c0;
+
+  border-radius: 3px;
+}
+
+.main-content::-webkit-scrollbar-thumb:hover {
+  background: #a0a0a0;
+}

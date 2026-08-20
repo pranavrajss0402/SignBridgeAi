@@ -1,0 +1,526 @@
+/* =========================================================
+   HEADER
+   ========================================================= */
+
+.app-header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  width: 100%;
+  height: 70px;
+
+  padding: 0 var(--spacing-lg);
+
+  box-sizing: border-box;
+
+  background-color: var(--color-bg-main);
+  border-bottom: 1px solid var(--color-border);
+
+  flex-shrink: 0;
+  min-width: 0;
+}
+
+
+/* =========================================================
+   HEADER SPACER
+   ========================================================= */
+
+.header-spacer {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+
+/* =========================================================
+   HEADER ACTIONS
+   ========================================================= */
+
+.header-actions {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+
+  gap: var(--spacing-lg);
+
+  width: max-content;
+  flex-shrink: 0;
+
+  margin-left: auto;
+}
+
+
+/* =========================================================
+   HEADER ICON BUTTON
+   ========================================================= */
+
+.header-icon-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 36px;
+  height: 36px;
+
+  padding: 0;
+
+  border: none;
+  border-radius: var(--radius-md);
+
+  background: transparent;
+
+  color: var(--color-text-secondary);
+
+  transition:
+    background-color var(--transition-base),
+    color var(--transition-base),
+    transform var(--transition-base);
+
+  position: relative;
+
+  cursor: pointer;
+}
+
+.header-icon-btn:hover {
+  background-color: #f0f0f0;
+  color: var(--color-text-primary);
+}
+
+.header-icon-btn:active {
+  background-color: #e8e8e8;
+  transform: scale(0.96);
+}
+
+.header-icon-btn:focus-visible {
+  outline: 2px solid var(--color-primary-purple);
+  outline-offset: 2px;
+}
+
+
+/* =========================================================
+   NOTIFICATION DOT
+   ========================================================= */
+
+.notification-dot {
+  position: absolute;
+
+  top: 4px;
+  right: 4px;
+
+  width: 8px;
+  height: 8px;
+
+  background-color: #ff6b6b;
+
+  border-radius: 50%;
+
+  border: 2px solid white;
+
+  box-sizing: content-box;
+}
+
+
+/* =========================================================
+   USER AVATAR BUTTON
+   ========================================================= */
+
+.header-avatar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 36px;
+  height: 36px;
+
+  padding: 0;
+
+  border: none;
+  border-radius: var(--radius-md);
+
+  background: transparent;
+
+  transition:
+    background-color var(--transition-base),
+    transform var(--transition-base);
+
+  cursor: pointer;
+}
+
+.header-avatar:hover {
+  background-color: #f0f0f0;
+}
+
+.header-avatar:active {
+  transform: scale(0.96);
+}
+
+.header-avatar:focus-visible {
+  outline: 2px solid var(--color-primary-purple);
+  outline-offset: 2px;
+}
+
+
+/* =========================================================
+   AVATAR CIRCLE
+   ========================================================= */
+
+.avatar-circle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 32px;
+  height: 32px;
+
+  border-radius: 50%;
+
+  background: linear-gradient(
+    135deg,
+    var(--color-primary-purple) 0%,
+    #9b7ce6 100%
+  );
+
+  color: white;
+}
+
+
+/* =========================================================
+   DROPDOWN WRAPPER
+   ========================================================= */
+
+.header-menu-wrapper {
+  position: relative;
+
+  display: flex;
+  align-items: center;
+}
+
+
+/* =========================================================
+   DROPDOWN
+   ========================================================= */
+
+.header-dropdown {
+  position: absolute;
+
+  top: calc(100% + 10px);
+  right: 0;
+
+  width: 280px;
+
+  padding: 16px;
+
+  box-sizing: border-box;
+
+  background-color: white;
+
+  border: 1px solid var(--color-border);
+
+  border-radius: 12px;
+
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+
+  z-index: 1000;
+
+  animation: dropdown-in 0.15s ease-out;
+}
+
+
+/* =========================================================
+   DROPDOWN TITLE
+   ========================================================= */
+
+.dropdown-title {
+  margin-bottom: 12px;
+
+  font-size: 14px;
+  font-weight: 600;
+
+  color: var(--color-text-primary);
+}
+
+
+/* =========================================================
+   CONNECTION STATUS
+   ========================================================= */
+
+.connection-status {
+  display: flex;
+  align-items: center;
+
+  gap: 8px;
+
+  font-size: 14px;
+  font-weight: 500;
+
+  color: var(--color-text-primary);
+}
+
+.status-dot {
+  width: 8px;
+  height: 8px;
+
+  flex-shrink: 0;
+
+  background-color: #2ecc71;
+
+  border-radius: 50%;
+}
+
+.dropdown-small-text {
+  margin-top: 8px;
+
+  font-size: 12px;
+  line-height: 1.5;
+
+  color: var(--color-text-secondary);
+}
+
+
+/* =========================================================
+   NOTIFICATION ITEM
+   ========================================================= */
+
+.notification-item {
+  display: flex;
+  align-items: flex-start;
+
+  gap: 10px;
+
+  padding: 10px;
+
+  background-color: #f8f8f8;
+
+  border-radius: 8px;
+}
+
+.notification-item strong {
+  display: block;
+
+  font-size: 13px;
+
+  color: var(--color-text-primary);
+}
+
+.notification-item p {
+  margin: 4px 0 0;
+
+  font-size: 12px;
+  line-height: 1.4;
+
+  color: var(--color-text-secondary);
+}
+
+
+/* =========================================================
+   HELP
+   ========================================================= */
+
+.help-text {
+  margin: 0 0 10px;
+
+  font-size: 13px;
+  line-height: 1.5;
+
+  color: var(--color-text-secondary);
+}
+
+
+/* =========================================================
+   PROFILE
+   ========================================================= */
+
+.profile-name {
+  font-size: 14px;
+  font-weight: 600;
+
+  color: var(--color-text-primary);
+}
+
+.profile-role {
+  margin-top: 3px;
+
+  font-size: 12px;
+
+  color: var(--color-text-secondary);
+}
+
+.profile-action {
+  display: block;
+
+  width: 100%;
+
+  margin-top: 10px;
+  padding: 9px 10px;
+
+  border: none;
+
+  border-radius: 8px;
+
+  text-align: left;
+
+  background-color: transparent;
+
+  color: var(--color-text-primary);
+
+  cursor: pointer;
+
+  transition: background-color 0.15s ease;
+}
+
+.profile-action:hover {
+  background-color: #f0f0f0;
+}
+
+.profile-action:focus-visible {
+  outline: 2px solid var(--color-primary-purple);
+  outline-offset: 1px;
+}
+
+
+/* =========================================================
+   DROPDOWN ANIMATION
+   ========================================================= */
+
+@keyframes dropdown-in {
+  from {
+    opacity: 0;
+    transform: translateY(-4px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+
+/* =========================================================
+   TABLET
+   ========================================================= */
+
+@media (max-width: 768px) {
+
+  .app-header {
+    height: 60px;
+
+    padding: 0 var(--spacing-md);
+  }
+
+  .header-actions {
+    gap: var(--spacing-md);
+  }
+
+  .header-icon-btn {
+    width: 32px;
+    height: 32px;
+  }
+
+  .header-avatar {
+    width: 32px;
+    height: 32px;
+  }
+
+  .avatar-circle {
+    width: 28px;
+    height: 28px;
+  }
+}
+
+
+/* =========================================================
+   SMALL MOBILE
+   ========================================================= */
+
+@media (max-width: 480px) {
+
+  .app-header {
+    height: 56px;
+
+    padding: 0 var(--spacing-sm);
+  }
+
+  .header-actions {
+    gap: var(--spacing-sm);
+
+    width: max-content;
+  }
+
+  .header-icon-btn {
+    width: 28px;
+    height: 28px;
+  }
+
+  .header-icon-btn svg {
+    width: 18px;
+    height: 18px;
+  }
+
+  .header-avatar {
+    width: 28px;
+    height: 28px;
+  }
+
+  .avatar-circle {
+    width: 24px;
+    height: 24px;
+  }
+
+  .avatar-circle svg {
+    width: 14px;
+    height: 14px;
+  }
+
+  .notification-dot {
+    top: 2px;
+    right: 2px;
+
+    width: 6px;
+    height: 6px;
+  }
+
+  /*
+     On small screens the dropdown is fixed
+     so it doesn't get clipped by the header.
+  */
+  .header-dropdown {
+    position: fixed;
+
+    top: 64px;
+    right: 10px;
+
+    width: min(280px, calc(100vw - 20px));
+  }
+}
+
+
+/* =========================================================
+   VERY SMALL SCREENS
+   ========================================================= */
+
+@media (max-width: 360px) {
+
+  .app-header {
+    padding: 0 8px;
+  }
+
+  .header-actions {
+    gap: 4px;
+  }
+
+  .header-icon-btn {
+    width: 30px;
+    height: 30px;
+  }
+
+  .header-avatar {
+    width: 30px;
+    height: 30px;
+  }
+
+  .avatar-circle {
+    width: 24px;
+    height: 24px;
+  }
+}

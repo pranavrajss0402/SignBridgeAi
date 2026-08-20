@@ -1,0 +1,133 @@
+.output-translation-card {
+  background-color: var(--color-bg-card);
+  border-radius: var(--radius-lg);
+  padding: var(--spacing-lg);
+  box-shadow: var(--shadow-sm);
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-md);
+}
+
+.card-title {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--color-text-primary);
+  margin: 0;
+}
+
+.translation-content {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-md);
+}
+
+.translation-text {
+  font-size: 14px;
+  line-height: 1.6;
+  color: var(--color-text-primary);
+  margin: 0;
+  padding: var(--spacing-md);
+  background-color: #F9F9F9;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--color-border);
+  min-height: 60px;
+  display: flex;
+  align-items: center;
+}
+
+.btn-speak {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 12px 24px;
+  background-color: var(--color-bg-main);
+  color: var(--color-text-primary);
+  font-size: 14px;
+  font-weight: 600;
+  border: 2px solid var(--color-border);
+  border-radius: var(--radius-md);
+  transition: all var(--transition-base);
+  cursor: pointer;
+}
+
+.btn-speak:hover {
+  background-color: var(--color-primary-purple);
+  color: white;
+  border-color: var(--color-primary-purple);
+  box-shadow: 0 4px 12px rgba(107, 76, 230, 0.2);
+}
+
+.btn-speak:active {
+  transform: scale(0.98);
+}
+
+.btn-speak svg {
+  width: 20px;
+  height: 20px;
+}
+
+@media (max-width: 1024px) {
+  .output-translation-card {
+    padding: var(--spacing-md);
+  }
+
+  .translation-text {
+    padding: var(--spacing-sm);
+    font-size: 13px;
+    min-height: 50px;
+  }
+
+  .btn-speak {
+    padding: 10px 20px;
+    font-size: 13px;
+  }
+
+  .btn-speak svg {
+    width: 18px;
+    height: 18px;
+  }
+}
+
+@media (max-width: 768px) {
+  .output-translation-card {
+    padding: var(--spacing-md);
+  }
+
+  .translation-text {
+    padding: var(--spacing-sm);
+    font-size: 13px;
+    min-height: 45px;
+  }
+
+  .btn-speak {
+    padding: 10px 16px;
+    font-size: 13px;
+  }
+}
+
+@media (max-width: 480px) {
+  .output-translation-card {
+    padding: var(--spacing-md);
+  }
+
+  .translation-text {
+    padding: var(--spacing-sm);
+    font-size: 12px;
+    min-height: 40px;
+  }
+
+  .btn-speak {
+    padding: 10px 16px;
+    font-size: 12px;
+  }
+
+  .btn-speak svg {
+    width: 16px;
+    height: 16px;
+  }
+
+  .btn-speak span {
+    display: none;
+  }
+}

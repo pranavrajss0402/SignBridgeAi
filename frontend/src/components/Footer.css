@@ -1,0 +1,21 @@
+/* ============================================================
+   SIGNOVA — Footer CSS
+   ============================================================ */
+
+.footer {
+  text-align: center;
+  padding: var(--spacing-md) 0;
+  margin-top: auto;
+  border-top: 1px solid rgba(255, 255, 255, 0.05);
+  color: var(--text-muted);
+  font-size: 11px;
+  width: 100%;
+}
+
+.footer span {
+  background: var(--gradient-primary);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  font-weight: 700;
+}

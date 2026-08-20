@@ -1,0 +1,103 @@
+﻿Sentence,Video Samples,Frame Count,ISL Sign Gloss,Has Video,Has Frames,Has Gloss
+are you free today,5,230,YOU FREE TODAY,True,True,True
+are you hiding something,5,215,YOU HIDE SOMETHING,True,True,True
+bring water for me,5,241,BRING WATER ME,True,True,True
+can i help you,6,173,I HELP YOU,True,True,True
+can you repeat that please,5,258,YOU REPEAT PLEASE,True,True,True
+comb your hair,5,151,COMB YOU HAIR,True,True,True
+congratulations,5,123,CONGRATULATIIONS,True,True,True
+could you please talk slower,5,293,YOU PLEASE TALK SLOWER,True,True,True
+do me a favour,5,163,DO ME FAVOUR,True,True,True
+do not abuse him,4,120,DONOT ABUSE HIM,True,True,True
+do not be stubborn,4,183,DONOT BE STUBBORN,True,True,True
+do not hurt me,5,159,DONOT HURT ME,True,True,True
+do not make me angry,5,234,DO NOT MAKE ME ANGRY,True,True,True
+do not take it to the heart,5,263,DO NOT TAKE IT HEART,True,True,True
+do not worry,5,150,DO NOT WORRY,True,True,True
+do you need something,5,244,DO YOU NEED SOMETHING,True,True,True
+go and sleep,6,207,GO SLEEP,True,True,True
+had your food,5,135,YOUR FOOD,True,True,True
+he came by train,5,149,HE CAME TRAIN,True,True,True
+he is going into the room,5,216,HE GO  INTO  ROOM,True,True,True
+he is on the way,4,321,HE ON WAY,True,True,True
+he she is my friend,5,215,HE SHE MY FRIEND,True,True,True
+he would be coming today,5,0,HE COMING TODAY,True,False,True
+help me,5,198,HELP ME,True,True,True
+hi how are you,5,303,HI HOW YOU,True,True,True
+how are things,4,519,HOW THINGS,True,True,True
+how can i help you,5,234,HOW I HELP YOU,True,True,True
+how can i trust you,5,274,HOW I TRUST YOU,True,True,True
+how dare you,5,142,HOW DARE YOU,True,True,True
+how old are you,5,238,HOW OLD YOU,True,True,True
+i am (age),5,168,I (AGE),True,True,True
+i am afraid of that,5,204,I AFRAID THAT,True,True,True
+i am crying,5,173,I CRY,True,True,True
+i am feeling bored,5,197,I FEELING BORED,True,True,True
+i am feeling cold,5,142,I FEELING COLD,True,True,True
+i am fine. thank you sir,5,124,I FINE. THANK YOU SIR,True,True,True
+i am hungry,5,260,I HUNGRY,True,True,True
+i am in dilemma what to do,5,260,I IN DILEMMA WHAT TO DO,True,True,True
+i am not really sure,5,237,I NOT REALLY SURE,True,True,True
+i am really grateful,5,290,I REALLY GRATEFUL,True,True,True
+i am sitting in the class,5,208,I SITTING IN THE CLASS,True,True,True
+i am so sorry to hear that,5,114,I AM SO SORRY TO HEAR THAT,True,True,True
+i am suffering from fever,5,171,I SUFFERING FROM FEVER,True,True,True
+i am tired,5,172,I TIRED,True,True,True
+i am very happy,4,122,I VERY HAPPY,True,True,True
+i can not help you there,5,272,I NOT HELP YOU THERE,True,True,True
+i do not agree,5,157,I DONOT AGREE,True,True,True
+i do not like it,5,159,I DO NOT LIKE IT,True,True,True
+i do not mean it,5,178,I DO NOT MEAN IT,True,True,True
+i dont agree,1,0,I DONT AGREE,True,False,True
+i enjoyed a lot,6,153,I ENJOYED A LOT,True,True,True
+i got hurt,5,117,I GOT HURT,True,True,True
+i like you i love you,6,157,I LIKE YOU I LOVE YOU,True,True,True
+i need water,5,302,I NEED WATER,True,True,True
+i promise,5,132,I PROMISE,True,True,True
+i really appreciate it,5,255,I REALLY APPRECIATE IT,True,True,True
+i somehow got to know about it,5,181,I SOMEHOW GOT KNOW ABOUT IT,True,True,True
+i was stopped by some one,5,206,I STOPPED BY SOMEONE,True,True,True
+it does not make any difference to me,5,274,IT DO NOT MAKE ANY DIFFERENCE TO ME,True,True,True
+it was nice chatting with you,5,334,IT NICE CHAT WITH YOU,True,True,True
+let him take time,5,173,LET HIM TAKE TIME,True,True,True
+my name is xxxxxxxx,5,202,MY NAME XXXXXXXX,True,True,True
+nice to meet you,5,243,NICE MEET YOU,True,True,True
+no need to worry dont worry,1,0,NO NEED WORRY DONT WORRY,True,False,True
+now onwards he will never hurt you,5,0,NOW ONWARDS HE NEVER HURT YOU,True,False,True
+pour some more water into the glass,5,151,POUR SOME MORE WATER INTO THE GLASS,True,True,True
+prepare the bed,5,169,PREPARE BED,True,True,True
+serve the food,7,154,SERVE FOOD,True,True,True
+shall we go outside,5,154,WE GO OUTSIDE,True,True,True
+speak softly,6,141,SPEAK SOFTLY,True,True,True
+take care of yourself,5,145,TAKE CARE OF YOURSELF,True,True,True
+tell me truth,4,125,TELL ME TRUTH,True,True,True
+thank you so much,5,230,THANK YOU SO MUCH,True,True,True
+that is so kind of you,5,254,THAT KIND YOU,True,True,True
+this place is beautiful,5,250,THIS PLACE BEAUTIFUL,True,True,True
+try to understand,5,217,TRY TO UNDERSTAND,True,True,True
+turn on light turn off light,5,203,TURN ON LIGHT TURN OFF LIGHT,True,True,True
+we are all with you,5,169,WE ALL WITH YOU,True,True,True
+wear the shirt,5,172,WEAR SHIRT,True,True,True
+what are you doing,5,250,WHAT YOU DO,True,True,True
+what did you tell him,5,134,WHAT YOU TELL HIM,True,True,True
+what do you do,4,191,WHAT YOU DO,True,True,True
+what do you think,5,229,WHAT DO YOU THINK,True,True,True
+what do you want to become,5,157,WHAT DO YOU WANT BECOME,True,True,True
+what happened,5,119,WHAT HAPPENED,True,True,True
+what have you planned for your career,1,46,WHAT HAVE YOU PLAN YOUR CAREER,True,True,True
+what is your phone number,5,313,WHAT YOUR PHONE NUMBER,True,True,True
+what you want,5,243,WHAT YOU WANT,True,True,True
+when will the train leave,5,134,WHEN TRAIN LEAVE,True,True,True
+where are you from,4,234,WHERE YOU FROM,True,True,True
+which college school are you from,0,0,WHICH COLLEGE SCHOOL YOU FROM,False,False,True
+which collegeschool are you from,5,116,NOT AVAILABLE,True,True,False
+who are you,5,110,WHO YOU,True,True,True
+why are you angry,5,138,WHY YOU ANGRY,True,True,True
+why are you crying,5,145,WHY YOU CRY,True,True,True
+why are you disappointed,5,123,WHY YOU DISAPPOINTED,True,True,True
+you are bad,6,93,YOU BAD,True,True,True
+you are good,5,132,YOU GOOD,True,True,True
+you are welcome,5,179,YOU WELCOME,True,True,True
+you can do it,5,135,YOU DO IT,True,True,True
+"you do anything, i do not care",4,144,"YOU DO ANYTHING, I DO NOT CARE",True,True,True
+"you need a medicine, take this one",5,276,"YOU NEED A MEDICINE, TAKE THIS ONE",True,True,True

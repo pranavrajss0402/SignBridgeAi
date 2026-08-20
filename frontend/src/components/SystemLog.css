@@ -1,0 +1,96 @@
+/* ============================================================
+   SIGNOVA — System Log Card
+   ============================================================ */
+
+.system-log-card {
+  background: var(--bg-card);
+  backdrop-filter: blur(var(--glass-blur));
+  -webkit-backdrop-filter: blur(var(--glass-blur));
+  border: 1px solid var(--glass-border);
+  border-radius: var(--radius-lg);
+  padding: 20px;
+  animation: fadeIn 0.5s ease;
+  transition: all var(--transition-normal);
+}
+
+.system-log-card:hover {
+  border-color: var(--border-glow);
+  background: var(--bg-card-hover);
+}
+
+.log-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 14px;
+}
+
+.log-title {
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  margin: 0;
+}
+
+.status-indicator {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 10px;
+  font-weight: 700;
+  color: var(--accent-green);
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+}
+
+.status-indicator .status-dot.connected {
+  width: 7px; height: 7px;
+  border-radius: 50%;
+  background: var(--accent-green);
+  box-shadow: 0 0 6px rgba(16, 185, 129, 0.5);
+  animation: pulse-glow 2s ease infinite;
+}
+
+.log-container {
+  background: rgba(0, 0, 0, 0.3);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  border-radius: var(--radius-md);
+  padding: 12px;
+  max-height: 160px;
+  overflow-y: auto;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  line-height: 1.8;
+}
+
+.log-entry {
+  display: flex;
+  gap: 8px;
+  align-items: flex-start;
+  padding: 1px 0;
+  animation: fadeIn 0.2s ease;
+}
+
+.log-time { color: var(--text-muted); flex-shrink: 0; }
+
+.log-type {
+  font-weight: 700;
+  flex-shrink: 0;
+  min-width: 40px;
+}
+
+.log-message { color: var(--text-secondary); word-break: break-word; }
+
+/* Type colors */
+.log-init .log-type { color: var(--accent-cyan); }
+.log-sync .log-type { color: var(--accent-purple); }
+.log-warn .log-type { color: var(--accent-amber); }
+.log-info .log-type { color: var(--accent-green); }
+.log-pred .log-type { color: #ec4899; }
+.log-err  .log-type { color: var(--accent-red); }
+
+.log-container::-webkit-scrollbar { width: 4px; }
+.log-container::-webkit-scrollbar-track { background: transparent; }
+.log-container::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.08); border-radius: 2px; }

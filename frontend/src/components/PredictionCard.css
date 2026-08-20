@@ -1,0 +1,97 @@
+/* ============================================================
+   SIGNBRIDGE — Prediction Card (Mode 1 Right Panel)
+   ============================================================ */
+
+.prediction-card {
+  position: relative;
+  overflow: hidden;
+  padding: 20px;
+  animation: fadeIn 0.4s ease;
+}
+
+.prediction-card::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 3px;
+  background: linear-gradient(90deg, #0ea5e9, #7c3aed);
+  border-radius: 3px 3px 0 0;
+}
+
+.prediction-card h3 {
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  margin: 0 0 12px;
+}
+
+/* Type badge */
+.prediction-type-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 3px 10px;
+  border-radius: 999px;
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  margin-bottom: 14px;
+}
+
+.badge-letter   { background: rgba(14,165,233,0.1);  color: #0ea5e9;  border: 1px solid rgba(14,165,233,0.25); }
+.badge-word     { background: rgba(124,58,237,0.1);  color: #7c3aed;  border: 1px solid rgba(124,58,237,0.25); }
+.badge-sentence { background: rgba(236,72,153,0.1);  color: #ec4899;  border: 1px solid rgba(236,72,153,0.25); }
+.badge-gesture  { background: rgba(245,158,11,0.1);  color: #d97706;  border: 1px solid rgba(245,158,11,0.25); }
+.badge-none     { background: rgba(100,116,139,0.08); color: #64748b; border: 1px solid rgba(100,116,139,0.15); }
+
+/* Big prediction text */
+.prediction-text {
+  font-size: 36px;
+  font-weight: 800;
+  text-align: center;
+  padding: 14px 8px;
+  min-height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  line-height: 1.15;
+  letter-spacing: -0.5px;
+  word-break: break-word;
+  border-radius: var(--radius-md, 10px);
+  transition: all 200ms ease;
+  margin-bottom: 12px;
+}
+
+.prediction-text.confident {
+  background: linear-gradient(135deg, #0ea5e9 0%, #7c3aed 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  background-color: rgba(14,165,233,0.05);
+}
+
+.prediction-text.listening {
+  color: var(--text-muted, #94a3b8);
+  -webkit-text-fill-color: var(--text-muted, #94a3b8);
+  font-size: 20px;
+  font-style: italic;
+  font-weight: 500;
+  background: rgba(100,116,139,0.05);
+}
+
+/* Confidence row */
+.prediction-meta {
+  display: flex;
+  justify-content: space-between;
+  font-size: 11.5px;
+  color: var(--text-secondary, #64748b);
+  padding: 8px 10px;
+  background: rgba(14,165,233,0.04);
+  border-radius: var(--radius-sm, 6px);
+  border: 1px solid rgba(14,165,233,0.1);
+  font-family: 'Courier New', monospace;
+  font-weight: 600;
+}

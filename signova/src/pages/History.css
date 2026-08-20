@@ -1,0 +1,171 @@
+/* =========================================================
+   SIGNOVA - HISTORY PAGE
+   ========================================================= */
+
+.history-page {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 8px 0 30px;
+  box-sizing: border-box;
+}
+
+/* Page Header */
+
+.history-header {
+  margin-bottom: 24px;
+}
+
+.history-title {
+  margin: 0 0 6px;
+  font-size: 30px;
+  font-weight: 700;
+  color: var(--color-text-primary);
+}
+
+.history-subtitle {
+  margin: 0;
+  font-size: 14px;
+  color: var(--color-text-secondary);
+}
+
+/* History Container */
+
+.history-container {
+  width: 100%;
+  background: #ffffff;
+  border: 1px solid var(--color-border);
+  border-radius: 12px;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+
+/* History Item */
+
+.history-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  padding: 20px 24px;
+  border-bottom: 1px solid #eeeeee;
+}
+
+.history-item:last-child {
+  border-bottom: none;
+}
+
+.history-info {
+  min-width: 0;
+  flex: 1;
+}
+
+.history-item-title {
+  margin: 0 0 5px;
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--color-text-primary);
+}
+
+.history-item-details {
+  margin: 0;
+  font-size: 13px;
+  color: var(--color-text-secondary);
+}
+
+/* Status */
+
+.history-status {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 6px 12px;
+  border-radius: 20px;
+  background: #f0e9ff;
+  color: var(--color-primary-purple);
+  font-size: 12px;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+/* Empty State */
+
+.history-empty {
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.history-empty-title {
+  margin: 0 0 8px;
+  font-size: 18px;
+  font-weight: 600;
+  color: var(--color-text-primary);
+}
+
+.history-empty-text {
+  margin: 0;
+  font-size: 13px;
+  color: var(--color-text-secondary);
+}
+
+/* =========================================================
+   RESPONSIVE
+   ========================================================= */
+
+@media (max-width: 1024px) {
+  .history-page {
+    max-width: 100%;
+  }
+
+  .history-title {
+    font-size: 28px;
+  }
+}
+
+@media (max-width: 768px) {
+  .history-page {
+    padding: 4px 0 24px;
+  }
+
+  .history-title {
+    font-size: 24px;
+  }
+
+  .history-subtitle {
+    font-size: 13px;
+  }
+
+  .history-item {
+    padding: 18px;
+  }
+}
+
+@media (max-width: 560px) {
+  .history-item {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+  }
+
+  .history-status {
+    align-self: flex-start;
+  }
+}
+
+@media (max-width: 480px) {
+  .history-title {
+    font-size: 21px;
+  }
+
+  .history-container {
+    border-radius: 10px;
+  }
+
+  .history-item {
+    padding: 16px;
+  }
+
+  .history-empty {
+    padding: 45px 16px;
+  }
+}
